@@ -1,4 +1,4 @@
-# Project 1 — Robotic Arm Kinematics & Path Planning
+# Project 1 
 
 ### DecodeLabs Robotics & Automation Internship
 
